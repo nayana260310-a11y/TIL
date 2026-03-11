@@ -13,16 +13,6 @@
 
 <details>
   <summary style="font-size: 16px;"><strong id="n8n">n8n (전체 보기)</strong></summary>
-
-- [2026-03-01-n8n-보안-강화](n8n/2026-03-01-n8n-보안-강화.md)
-
-- [2026-02-21-n8n-중복-실행-버그](n8n/2026-02-21-n8n-중복-실행-버그.md)
-
-- [2026-02-21-DuckDNS-Lets-Encrypt-CAA-오류](n8n/2026-02-21-DuckDNS-Lets-Encrypt-CAA-오류.md)
-
-- [2026-02-09-n8n-디스코드-메시지-자동-변환-및-푸시-워크플로우](n8n/2026-02-09-n8n-디스코드-메시지-자동-변환-및-푸시-워크플로우.md)
-
-- [2026-01-30-n8n-JSON-정규표현식-처리](n8n/2026-01-30-n8n-JSON-정규표현식-처리.md)
 </details>
 <br>
 
@@ -31,15 +21,11 @@
 
 - [2026-03-10-리스트-컴프리헨션-vs-filter-가독성과-성능](python/2026-03-10-리스트-컴프리헨션-vs-filter-가독성과-성능.md)
 
-- [2026-01-30-파이썬-리스트-컴프리헨션-과-조건문](python/2026-01-30-파이썬-리스트-컴프리헨션-과-조건문.md)
-
 </details>
 <br>
 
 <details>
   <summary style="font-size: 16px;"><strong id="ai-agent">AI Agent (전체 보기)</strong></summary>
-
-- [2026-01-30-몰트봇-품절-현상](ai-agent/2026-01-30-몰트봇-품절-현상.md)
 
 </details>
 
