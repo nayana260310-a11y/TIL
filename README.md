@@ -27,6 +27,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="ai-agent">AI Agent (전체 보기)</strong></summary>
 
+- [2026-03-12-메신저-플랫폼-선정-전략](ai-agent/2026-03-12-메신저-플랫폼-선정-전략.md)
+
 </details>
 
 ---
