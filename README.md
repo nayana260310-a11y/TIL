@@ -29,6 +29,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="ai-agent">AI Agent (전체 보기)</strong></summary>
 
+- [2026-03-14-LLM-호출-전략-비교](ai-agent/2026-03-14-LLM-호출-전략-비교.md)
+
 - [2026-03-12-메신저-플랫폼-선정-전략](ai-agent/2026-03-12-메신저-플랫폼-선정-전략.md)
 
 </details>
