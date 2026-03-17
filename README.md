@@ -29,6 +29,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="ai-agent">AI Agent (전체 보기)</strong></summary>
 
+- [2026-03-16-로컬-ollama-호출-오류-해결-및-기본-툴-테스트](ai-agent/2026-03-16-로컬-ollama-호출-오류-해결-및-기본-툴-테스트.md)
+
 - [2026-03-16-EC-공개키-PEM-구조-분석](ai-agent/2026-03-16-EC-공개키-PEM-구조-분석.md)
 
 - [2026-03-14-LLM-호출-전략-비교](ai-agent/2026-03-14-LLM-호출-전략-비교.md)
