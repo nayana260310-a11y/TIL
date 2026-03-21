@@ -29,6 +29,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="ai-agent">AI Agent (전체 보기)</strong></summary>
 
+- [2026-03-20-로컬-모델-이중-트랙-운영과-합의-루프-최적화](ai-agent/2026-03-20-로컬-모델-이중-트랙-운영과-합의-루프-최적화.md)
+
 - [2026-03-18-로컬-LLM-메모리-상주-keep_alive-설정](ai-agent/2026-03-18-로컬-LLM-메모리-상주-keep_alive-설정.md)
 
 - [2026-03-16-로컬-ollama-호출-오류-해결-및-기본-툴-테스트](ai-agent/2026-03-16-로컬-ollama-호출-오류-해결-및-기본-툴-테스트.md)
